@@ -33,18 +33,23 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Backend**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
 **Data Science / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Tools & Databases**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -64,9 +69,10 @@
 - Optimized model inference to achieve **sub-200ms response times**
 - Built an interactive dashboard for real-time sentiment scoring and visual trend analysis
 
-### ✅ [Task Manager](https://github.com) · *GitHub*
-> Task management app with encrypted authentication and session-based data persistence
-- Applied modern UI/UX: **glassmorphism**, drag-and-drop reordering, and priority filtering
+### 📈 [LSTM Stock Price Predictor](https://github.com) · *GitHub*
+> `PyTorch` · `FastAPI` · `Streamlit` · `Docker` · `MLflow`
+- Trained a stacked **2-layer LSTM model** in PyTorch achieving **<3% MAPE** on 6+ years of stock data
+- Built a **FastAPI** backend + **Streamlit** dashboard for real-time inference, deployed via Docker & MLflow on Render
 
 ---
 
